@@ -16,13 +16,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 🌟 Proyectos Destacados
 
-- 🚛 [EcoTruck](https://github.com/MoisesRuSo2004/EcoTruck-Conductor) – Sistema web para traking de camiones de recoleccion de basura  
+- 🚛 [EcoTruck](https://github.com/MoisesRuSo2004/EcoTruck-Conductor) – Sistema web para traking de camiones de recolección de basura  
 - 🗂️ [Sistema de Gestión SRP](https://github.com/MoisesRuSo2004/Sistema-de-gestion-SRP) – Aplicación CRUD con Spring Boot + MySQL + Frontend
 
 ---
