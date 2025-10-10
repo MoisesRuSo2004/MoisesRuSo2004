@@ -9,30 +9,32 @@
 ## 🚀 Tech Stack & Herramientas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff" style="border-radius: 15px; width: 60px; height: 60px;">
-  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=ffffff" style="border-radius: 15px; width: 60px; height: 60px;">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" style="border-radius: 15px; width: 60px; height: 60px;">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" style="border-radius: 15px; width: 60px; height: 60px;">
-  <img src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB" style="border-radius: 15px; width: 60px; height: 60px;">
-  <img src="https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white" style="border-radius: 15px; width: 60px; height: 60px;">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" style="border-radius: 15px; width: 60px; height: 60px;">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" style="border-radius: 15px; width: 60px; height: 60px;">
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=ffffff" style="border-radius: 15px; width: 60px; height: 60px;">
-  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" style="border-radius: 15px; width: 60px; height: 60px;">
-  <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" style="border-radius: 15px; width: 60px; height: 60px;">
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=ffffff" style="border-radius: 15px; width: 60px; height: 60px;">
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff" style="border-radius: 15px; width: 60px; height: 60px;">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=ffffff" style="border-radius: 15px; width: 60px; height: 60px;">
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" style="border-radius: 15px; width: 60px; height: 60px;">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff" style="border-radius: 15px; width: 50px; height: 50px;">
+  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=ffffff" style="border-radius: 15px; width: 50px; height: 50px;">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" style="border-radius: 15px; width: 50px; height: 50px;">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" style="border-radius: 15px; width: 50px; height: 50px;">
+  <img src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB" style="border-radius: 15px; width: 50px; height: 50px;">
+  <img src="https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white" style="border-radius: 15px; width: 50px; height: 50px;">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" style="border-radius: 15px; width: 50px; height: 50px;">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" style="border-radius: 15px; width: 50px; height: 50px;">
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=ffffff" style="border-radius: 15px; width: 50px; height: 50px;">
+  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" style="border-radius: 15px; width: 50px; height: 50px;">
+  <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" style="border-radius: 15px; width: 50px; height: 50px;">
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=ffffff" style="border-radius: 15px; width: 50px; height: 50px;">
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff" style="border-radius: 15px; width: 50px; height: 50px;">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=ffffff" style="border-radius: 15px; width: 50px; height: 50px;">
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" style="border-radius: 15px; width: 50px; height: 50px;">
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" style="border-radius: 15px; width: 50px; height: 50px;">
+  <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?logo=spring-boot&logoColor=white" style="border-radius: 15px; width: 50px; height: 50px;">
 </p>
 
 ---
 
 ## 💪 Fortalezas
 
-| **Backend** | **Web Frameworks** | **Frontend** | **Bases de Datos** | **Dev Tools** |
-|-------------|--------------------|--------------|--------------------|---------------|
-| Python, Go  | Django, Flask, Go (Chi) | HTML5, CSS3, JavaScript (Vue, React), TypeScript | MySQL, SQLite | Git, GitHub, Postman |
+| **Backend**              | **Web Frameworks**            | **Frontend**                             | **Bases de Datos**               | **Dev Tools**      |
+|--------------------------|-------------------------------|------------------------------------------|----------------------------------|--------------------|
+| Python, Go, Java          | Django, Flask, Go (Chi), Spring Boot | HTML5, CSS3, JavaScript (Vue, React), TypeScript | MySQL, SQLite, NoSQL (MongoDB)    | Git, GitHub, Postman |
 
 ---
 
