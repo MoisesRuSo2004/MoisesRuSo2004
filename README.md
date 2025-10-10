@@ -8,43 +8,68 @@
 
 ## 🚀 Tech Stack & Herramientas
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff)
-![CMD](https://img.shields.io/badge/-CMD-000000?logo=windows&logoColor=ffffff)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff" style="border-radius: 15px; width: 60px; height: 60px;">
+  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=ffffff" style="border-radius: 15px; width: 60px; height: 60px;">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" style="border-radius: 15px; width: 60px; height: 60px;">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" style="border-radius: 15px; width: 60px; height: 60px;">
+  <img src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB" style="border-radius: 15px; width: 60px; height: 60px;">
+  <img src="https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white" style="border-radius: 15px; width: 60px; height: 60px;">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" style="border-radius: 15px; width: 60px; height: 60px;">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" style="border-radius: 15px; width: 60px; height: 60px;">
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=ffffff" style="border-radius: 15px; width: 60px; height: 60px;">
+  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" style="border-radius: 15px; width: 60px; height: 60px;">
+  <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" style="border-radius: 15px; width: 60px; height: 60px;">
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=ffffff" style="border-radius: 15px; width: 60px; height: 60px;">
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff" style="border-radius: 15px; width: 60px; height: 60px;">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=ffffff" style="border-radius: 15px; width: 60px; height: 60px;">
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" style="border-radius: 15px; width: 60px; height: 60px;">
+</p>
+
+---
+
+## 💪 Fortalezas
+
+| **Backend** | **Web Frameworks** | **Frontend** | **Bases de Datos** | **Dev Tools** |
+|-------------|--------------------|--------------|--------------------|---------------|
+| Python, Go  | Django, Flask, Go (Chi) | HTML5, CSS3, JavaScript (Vue, React), TypeScript | MySQL, SQLite | Git, GitHub, Postman |
 
 ---
 
 ## 🌟 Proyectos Destacados
 
-- 🚛 [EcoTruck](https://github.com/MoisesRuSo2004/EcoTruck-Conductor) – Sistema web para tracking de camiones de recolección de basura  
-- 🗂️ [Sistema de Gestión SRP](https://github.com/MoisesRuSo2004/Sistema-de-gestion-SRP) – Aplicación CRUD con Spring Boot + MySQL + Frontend
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <div style="background: #FFF5E1; padding: 20px; border-radius: 15px; box-shadow: 0px 0px 15px rgba(0,0,0,0.1); width: 45%; text-align: center; border: 3px solid #F4D03F;">
+    <h3>🚛 [EcoTruck](https://github.com/MoisesRuSo2004/EcoTruck-Conductor)</h3>
+    <p>Sistema web para tracking de camiones de recolección de basura</p>
+  </div>
+  <div style="background: #FFF5E1; padding: 20px; border-radius: 15px; box-shadow: 0px 0px 15px rgba(0,0,0,0.1); width: 45%; text-align: center; border: 3px solid #F4D03F;">
+    <h3>🗂️ [Sistema de Gestión SRP](https://github.com/MoisesRuSo2004/Sistema-de-gestion-SRP)</h3>
+    <p>Aplicación CRUD con Spring Boot + MySQL + Frontend</p>
+  </div>
+</div>
 
 ---
 
 ## 📈 GitHub Stats
 
-![Moises Ruiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoisesRuSo2004&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesRuSo2004&layout=compact&theme=radical)
+<div style="display: flex; justify-content: center; gap: 40px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoisesRuSo2004&show_icons=true&theme=radical" style="border-radius: 15px; border: 3px solid #F4D03F;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesRuSo2004&layout=compact&theme=radical" style="border-radius: 15px; border: 3px solid #F4D03F;">
+</div>
 
 ---
 
 ## 🌐 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moises-ruiz-soraca/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moisesruiz@example.com)
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://www.linkedin.com/in/moises-ruiz-soraca/" target="_blank" style="background-color: #0A66C2; color: white; padding: 10px 20px; border-radius: 25px; text-decoration: none; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2); border: 2px solid #F4D03F;">
+    LinkedIn
+  </a>
+  <a href="mailto:moisesruiz@example.com" target="_blank" style="background-color: #D14836; color: white; padding: 10px 20px; border-radius: 25px; text-decoration: none; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2); border: 2px solid #F4D03F;">
+    Gmail
+  </a>
+</div>
 
 ---
 
