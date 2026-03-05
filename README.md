@@ -1,136 +1,182 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true"/>
 </div>
-<h1 align="center">Hola , Soy Moises Ruiz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<h1 align="center">
+Hola, Soy Moises Ruiz 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
+<h3 align="center">
+🚀 Backend Developer | Java & Spring Boot | APIs REST | Cloud
+</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=%23FFD700&center=true&vCenter=true&width=700&height=60&lines=👨‍💻+Desarrollador+de+Software+Full+Stack;⚙️+Apasionado+por+la+tecnología+y+la+innovación;🚀+Construyendo+soluciones+eficientes+y+escalables;🌎+Amante+del+desarrollo+web+y+backend;💡+Aprendiendo+cada+día+nuevas+tecnologías;🤝+Colaborando+en+proyectos+que+inspiran" />
-  </a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=%23FFD700&center=true&vCenter=true&width=700&height=60&lines=👨‍💻+Desarrollador+Full+Stack;⚙️+Apasionado+por+la+tecnología;🚀+Construyendo+soluciones+escalables;🌎+Amante+del+desarrollo+web+y+backend;💡+Aprendiendo+nuevas+tecnologías+cada+día;🤝+Colaborando+en+proyectos+que+inspiran"/>
+</a>
 </p>
 
-# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
+---
+
+# <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre mí
+
 ¡Hola! Soy **Moisés Ruíz**, desarrollador **Backend Junior** apasionado por crear aplicaciones con **Java** y **Spring Boot**.  
+
 Trabajo con **APIs REST**, **MySQL** y **MongoDB**, aplicando arquitectura **MVC** y buenas prácticas.  
-Actualmente aprendo sobre **seguridad con JWT**, **microservicios** y **despliegue en la nube**.
+
+Actualmente estoy aprendiendo sobre:
+
+- 🔐 Seguridad con **JWT**
+- ⚙️ **Microservicios**
+- ☁️ **Despliegue en la nube**
 
 ---
 
 # 💻 Stack Tecnológico
 
-<!-- 💻 Lenguajes -->
+### 💻 Lenguajes
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,java,dart&perline=10" />
-  </a>
+<img src="https://skillicons.dev/icons?i=java,js,py,dart&perline=8"/>
 </p>
 
-<!-- ⚙️ Backend -->
+### ⚙️ Backend
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,django,spring&perline=10" />
-  </a>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,django&perline=8"/>
 </p>
 
-<!-- 🧠 Bases de Datos -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,postgres&perline=10" />
-  </a>
-</p>
-<!-- Nota: MariaDB no tiene icono oficial en skillicons -->
+### 🧠 Bases de Datos
 
-<!-- 🎨 Frontend -->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,materialui,bootstrap,figma&perline=10" />
-  </a>
-</p>
-<!-- DaisyUI y Thymeleaf no están en skillicons.dev -->
-
-<!-- ☁️ Cloud / DevOps -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,docker,vercel,netlify,nginx&perline=10" />
-  </a>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&perline=8"/>
 </p>
 
-<!-- 🧩 Herramientas -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,linux,bash,md,jira,notion&perline=10" />
-  </a>
-</p>
-<!-- Apache Maven, NPM, Windows Terminal, Apache no tienen iconos en skillicons.dev -->
+### 🎨 Frontend
 
-<!-- ⚡ Extras -->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,openai,discord&perline=10" />
-  </a>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,materialui&perline=8"/>
 </p>
 
-<!-- 🔐 Seguridad y Autenticación -->
+### ☁️ Cloud / DevOps
+
 <p align="center">
-  <!-- JWT no está en skillicons.dev -->
-  <a href="https://jwt.io/" target="_blank">JWT 🔐</a>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,vercel,netlify,nginx&perline=8"/>
 </p>
 
-<!-- 🎨 Diseño y Visualización -->
+### 🧰 Herramientas
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,canva,photoshop,powerbi,prettier&perline=10" />
-  </a>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,linux,bash,notion,jira&perline=9"/>
+</p>
+
+### 🎨 Diseño
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,photoshop&perline=5"/>
 </p>
 
 ---
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Estadísticas de GitHub
+# 📊 GitHub Stats
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=MoisesRuSo2004&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true" height="165px"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MoisesRuSo2004&theme=github_dark&hide_border=true" height="165px"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MoisesRuSo2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesRuSo2004&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="130px"/>
+<img height="170" src="https://streak-stats.demolab.com?user=MoisesRuSo2004&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesRuSo2004&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏆 Trofeos de GitHub
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MoisesRuSo2004&theme=gruvbox&column=7&no-frame=true&no-bg=false&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trofeos de GitHub - MoisesRuSo2004" />
-  </a>
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MoisesRuSo2004&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🐍 Contribuciones
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📈 Actividad de Contribuciones
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MoisesRuSo2004&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔝 Repositorios Destacados
+
+<p align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=MoisesRuSo2004&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+
 </p>
 
 ---
 
-## 📈 Gráfico de Actividad
+# 🌐 Conecta conmigo
+
+<p align="center">
+
+<a href="https://www.facebook.com/moisesruizmusic">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/moises_ruso/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/moises-ruiz-sorac%C3%A1-a6110a352/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@MoisesRuizS">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:moisesruizruizsoraca@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoisesRuSo2004&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true" />
+
+👀 **Contador de visitantes**
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=MoisesRuSo2004"/>
+
 </div>
 
 ---
 
-## 🔝 Repositorios Destacados
-![](https://github-contributor-stats.vercel.app/api?username=MoisesRuSo2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 🌐 Redes Sociales
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/moisesruizmusic)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moises-ruiz-sorac%C3%A1-a6110a352/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@moisesruiz6037/videos)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moisesruizruizsoraca@gmail.com)
-
----
-
 <div align="center">
-  <p>👀 Contador de visitantes</p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MoisesRuSo2004"/>
-</div>
 
-<!-- Creado con ❤️ por Moisés Ruíz -->
+⭐ *Creado con ❤️ por Moisés Ruíz*
+
+</div>
