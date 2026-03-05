@@ -21,9 +21,9 @@ Hola, Soy Moises Ruiz
 
 # <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre mí
 
-¡Hola! Soy **Moisés Ruíz**, desarrollador **Backend Junior** apasionado por crear aplicaciones con **Java** y **Spring Boot**.
+¡Hola! Soy **Moisés Ruíz**, desarrollador **Backend Junior** apasionado por crear aplicaciones con **Java** y **Spring Boot**.  
 
-Trabajo con **APIs REST**, **MySQL** y **MongoDB**, aplicando arquitectura **MVC** y buenas prácticas.
+Trabajo con **APIs REST**, **MySQL** y **MongoDB**, aplicando arquitectura **MVC** y buenas prácticas.  
 
 Actualmente estoy aprendiendo sobre:
 
@@ -83,7 +83,7 @@ Actualmente estoy aprendiendo sobre:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MoisesRuSo2004&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MoisesRuSo2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=MoisesRuSo2004&theme=tokyonight&hide_border=true"/>
 
@@ -97,13 +97,11 @@ Actualmente estoy aprendiendo sobre:
 
 ---
 
-## 📊 Open Source Analytics
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-| Repository Activity Trends | Collaborative Productivity (Last 28 days) |
-|----------------------------|--------------------------------------------|
-| <img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo=MoisesRuSo2004/mi-app-tareas&image_size=auto"/> | <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo=MoisesRuSo2004/mi-app-tareas&image_size=auto"/> |
+<img src="https://github-profile-trophy.vercel.app/?username=MoisesRuSo2004&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -113,7 +111,7 @@ Actualmente estoy aprendiendo sobre:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -123,7 +121,7 @@ Actualmente estoy aprendiendo sobre:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MoisesRuSo2004&theme=tokyo-night&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MoisesRuSo2004&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
