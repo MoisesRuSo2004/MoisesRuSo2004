@@ -21,15 +21,17 @@ Hola, Soy Moises Ruiz
 
 # <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre mí
 
-¡Hola! Soy **Moisés Ruíz**, desarrollador **Backend Junior** apasionado por crear aplicaciones con **Java** y **Spring Boot**.  
+¡Hola! Soy **Moisés Ruíz**, desarrollador **Backend** enfocado en construir aplicaciones con **Java** y **Spring Boot**.
 
-Trabajo con **APIs REST**, **MySQL** y **MongoDB**, aplicando arquitectura **MVC** y buenas prácticas.  
+Trabajo desarrollando **APIs REST**, integraciones con **MongoDB** y **MySQL**, aplicando buenas prácticas de arquitectura, organización del backend y lógica de negocio.
 
-Actualmente estoy aprendiendo sobre:
+Me interesa crear sistemas **escalables, bien estructurados y seguros**.
 
-- 🔐 Seguridad con **JWT**
-- ⚙️ **Microservicios**
-- ☁️ **Despliegue en la nube**
+Actualmente estoy profundizando en:
+
+- 🔐 **Spring Security y JWT**
+- ⚙️ **Arquitectura modular y microservicios**
+- ☁️ **Despliegue y arquitectura en la nube**
 
 ---
 
