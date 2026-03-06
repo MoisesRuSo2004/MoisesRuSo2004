@@ -97,16 +97,6 @@ Actualmente estoy aprendiendo sobre:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MoisesRuSo2004&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
 # 🐍 Contribuciones
 
 <div align="center">
@@ -124,16 +114,6 @@ Actualmente estoy aprendiendo sobre:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoisesRuSo2004&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
----
-
-# 🔝 Repositorios Destacados
-
-<p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=MoisesRuSo2004&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
-</p>
 
 ---
 
